@@ -12,5 +12,8 @@ This project is a Java-based implementation of the classic board game Risk,but a
 - The codebase is primarily in Portuguese, as it was developed for a college assignment. Despite the language choice, the logic and structure of the code should be accessible to developers familiar with Java.
 
 Feel free to explore the code and enjoy a classic game of Risk with a fully functional Java implementation. If you have any questions or suggestions, please don't hesitate to reach out.
-
+<br/>
+<br/>
+**Here is a preview of the game:**
+<br/>
 <img src="/src/images/War-Game-Screen.png">
