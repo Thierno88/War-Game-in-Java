@@ -13,4 +13,4 @@ This project is a Java-based implementation of the classic board game Risk,but a
 
 Feel free to explore the code and enjoy a classic game of Risk with a fully functional Java implementation. If you have any questions or suggestions, please don't hesitate to reach out.
 
-<img src="/assets/img/arquivo.gif">
+<img src="/src/images/War-Game-Screen.png">
